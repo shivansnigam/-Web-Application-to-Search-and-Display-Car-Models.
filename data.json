@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "ford",
+    "model": "focus",
+    "year": 2005,
+    "image": "https://www.coches.com/fotos_historicas/ford/Focus/high_ford_focus-2014_r16.jpg"
+  },
+  {
+    "id": 2,
+    "manufacturer": "ford",
+    "model": "mustang",
+    "year": 1989,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9phsS_-rMQ6ZHOZMz3kW3foMwzxoX21kP23kRr8_eEfrEjtuQcxO9YhGbyB53FswCsA&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "manufacturer": "tesla",
+    "model": "x",
+    "year": 2016,
+    "image": "https://www.tesla.com/tesla_theme/assets/img/modelx/slideshow/White_Cruise-1440.jpg?20170907"
+  },
+  {
+    "id": 4,
+    "manufacturer": "mclaren",
+    "model": "f1",
+    "year": 2000,
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--I9eesD5y--/c_scale,fl_progressive,q_80,w_800/rsbivrx7uqdawjhiq0vy.png"
+  },
+  {
+    "id": 5,
+    "manufacturer": "opel",
+    "model": "corsa",
+    "year": 2008,
+    "image": "https://www.coches.com/fotos_historicas/opel/Corsa-3-door-2014/high_opel_corsa-3-door-2014_r10.jpg"
+  },
+  {
+    "id": 6,
+    "manufacturer": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "image": "https://images.pexels.com/photos/11139552/pexels-photo-11139552.jpeg?cs=srgb&dl=pexels-adaptphotos-11139552.jpg&fm=jpg"
+  },
+  {
+    "id": 7,
+    "manufacturer": "BMW",
+    "model": "X5",
+    "year": 2021,
+    "image": "https://www.bmw-me.com/content/dam/bmw/common/all-models/m-series/m8-coupe/2022/navigation/bmw-8series-coupe-modellfinder.png"
+  },
+  {
+    "id": 8,
+    "manufacturer": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2018,
+    "image": "https://mediapool.bmwgroup.com/cache/P9/202009/P90399203/P90399203-the-new-bmw-m4-competition-coup-09-2020-600px.jpg"
+  },
+  {
+    "id":9,
+    "manufacturer": "Audi",
+    "model": "A4",
+    "year": 2017,
+    "image": " https://www.motortrend.com/uploads/2023/01/2024-BMW-M3-CS-29.png"
+  }
+  
+]
